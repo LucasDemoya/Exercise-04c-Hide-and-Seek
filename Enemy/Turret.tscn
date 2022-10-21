@@ -22,9 +22,6 @@ margin_bottom = -46.0
 rect_pivot_offset = Vector2( 50, 6 )
 align = 1
 valign = 1
-__meta__ = {
-"_edit_use_anchors_": false
-}
 
 [node name="Laser" type="Line2D" parent="."]
 points = PoolVector2Array( 0, 0, -25, 0 )
